@@ -1,0 +1,20 @@
+{
+    "Author": "kbotha",
+    "ContentSize": 6558,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/azure-backup-report/master/Get-AzureBackups.ps1",
+    "DownloadCount": 1219,
+    "Id": "Azure-Backup-Report-2ff16d2e",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 45,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2019-9-23T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "The script will connect to your azure subscription and get all Azure backup job statuses from all Azure Backup Vaults. It includes all VM backups as well as File backups from the MARS agent. This is only achievable trough the debug log information at this stage. The report by def",
+    "Title": "Azure Backup Report",
+    "UpdatedDate": "2019-9-23T00:00:00",
+    "Url": "https://github.com/azureautomation/azure-backup-report",
+    "UserTags": "backup, azure vm, azure backup"
+}
